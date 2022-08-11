@@ -1,5 +1,5 @@
 {
-  "name": "@kubeplusplus/cv",
+  "name": "@anhtuan240599/cv",
   "description": "The Curriculum Vitae Project",
   "scripts": {
     "build": "node src/build.js",
