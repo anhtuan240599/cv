@@ -10,6 +10,7 @@ module.exports = {
       '<a href="https://github.com/anhtuan240599"><i class="fab fa-github fact-icon"></i>tuanhuynh</a>',
     Email:
       '<a href="mailto:anhtuan240599@gmail.com">:anhtuan240599@gmail.com</a>',
+    GPA: '3.5/4'
   },
   skills: [
     ["Javascript"],
@@ -57,7 +58,7 @@ Achievements:
 * Good completion handle and improve ELT services
 * Create and improve services to compute data and scalable
 * Applied Apache Airflow to manage sequentially running data processing services.
-* Hosted tech talks. Topics: what is airflow and how it work?.
+* Hosted tech talks. Topics: what is airflow and how it work?
 * Applied Slack to monitoring services
 * Quickly handle data problems and support customer requests for data, ...
 `,
@@ -97,9 +98,18 @@ Achievements:
 
     },
   ],
-  softSkills: `
-  * Communication and teamwork
-  * Withstand pressure of work
-  * Adapt quickly to new knowledge
-  `
+
+  certificates: [
+    {
+      contents: []
+    },
+  ],
+
+  others: [
+    {
+      contents1: ['Communication and teamwork'],
+      contents2: ['Withstand pressure of work'],
+      contents3: ['Adapt quickly to new knowledge']
+    },
+  ]
 };

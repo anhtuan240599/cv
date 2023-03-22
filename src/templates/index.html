@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ name }}. {{ title }}</title>
-    <link rel="icon" href="favicon.png" type="image/png"/>
+    <link rel="icon" href="favicon.ico" type="image/png"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
     <link rel="stylesheet" href="styles.css">
@@ -121,16 +121,26 @@
     </dl>
     {{/if}}
 
-    
+    {{#if certificates.length}}
+    <h2>Certificates</h2>
+    <ul>
+        <li>Mastering Agile Project Management course by Fresher Academy</li>
+    </ul>
+   
+    {{/if}}
+
     {{#if others.length}}
-    <h2>Additional experience</h2>
+    <h2>Soft Skills</h2>
 
     <ul>
         {{#each others}}
-        <li>{{{contents}}}</li>
+        <li>{{{contents1}}}</li>
+        <li>{{{contents2}}}</li>
+        <li>{{{contents3}}}</li>
         {{/each}}
     </ul>
     {{/if}}
+
 </div>
 </body>
 </html>
