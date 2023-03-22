@@ -1,12 +1,11 @@
 module.exports = {
   name: "Huynh Anh Tuan",
   title: "BackEnd Developer",
-  baseUrl: "https://tuanhuynh.github.io/cv/",
   facts: {
     Residence:
-      '<a href="#"><i class="fa fa-home fact-icon"></i>District 3, HCM</a>',
+      '<a href="#"><i class="fa fa-home fact-icon"></i>District 8, HCM</a>',
     LinkedIn:
-      '<a href="https://www.linkedin.com/in/tuan-huynh-584710210/"><i class="fab fa-linkedin fact-icon"></i></a>',
+      '<a href="https://www.linkedin.com/in/tuan-huynh-584710210/"><i class="fab fa-linkedin fact-icon"></i>Tuan Huynh</a>',
     GitHub:
       '<a href="https://github.com/anhtuan240599"><i class="fab fa-github fact-icon"></i>tuanhuynh</a>',
     Email:
@@ -15,10 +14,10 @@ module.exports = {
   skills: [
     ["Javascript"],
     ["Typescript"],
-    ["RabbitMQ"]
+    ["RabbitMQ"],
     ["MongoDB"],
-    ["Solr"]
     ["MySQL"],
+    ["Solr"],
     ["Redis"],
     ["Docker"],
     ["Kubernetes"],
@@ -35,9 +34,9 @@ module.exports = {
       period: "Aug 2021 - Present",
       skills: [
         "NestJS",
+        "Typescript",
         "NodeJS",
         "Kubernetes",
-        "Redis",
         "RabbitMQ",
         "Docker",
         "Solr",
@@ -48,16 +47,51 @@ Backend Engineer of the best company providing social media analytics solutions 
 
 Responsibilities:
 
+* Handle and improve ELT services
 * Work with microservice using NestJS 
-* Create and implement jobs build raw data to export data for business 
-* Implement jobs to crawl data from e-commerce platform 
-* Work with big data and performance coding
+* Create and implement jobs worker to compute raw data to analytics data
+* Deep understanding of existing architecture data to solve problems or export adhoc data for customers
 
 Achievements:
 
-* Applied Airflow that helps us automatic running job every day with schedule.
+* Good completion handle and improve ELT services
+* Create and improve services to compute data and scalable
+* Applied Apache Airflow to manage sequentially running data processing services.
 * Hosted tech talks. Topics: what is airflow and how it work?.
-* Applied Slack to monitoring log, ...
+* Applied Slack to monitoring services
+* Quickly handle data problems and support customer requests for data, ...
+`,
+
+
+    },
+    {
+      company: "2359 Media",
+      location: "HCM",
+      title: "Backend Engineer Intern",
+      period: "May 2021 - July 2021",
+      skills: [
+        "NodeJS",
+        "Javascript",
+        "PostgreSQL",
+        "Redis",
+        "Socket io"
+      ],
+      contents: `
+Backend Engineer Intern of Asia's leading digital consultancy and the preferred choice for cross platform engagement strategies.
+
+Responsibilities:
+
+* Learn git workflow, known and working with scrum agile
+* Create the website allows you to zip the files you want to share with others or for
+yourself
+* Deploy and apply CI/CD for website
+
+Achievements:
+
+* Works well with git workflow and agile scrum
+* Improve technical skill, coding better
+* Complete the tasks on time
+* Completion create and deploy website
 `,
 
 
