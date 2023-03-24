@@ -1,6 +1,6 @@
 module.exports = {
   name: "Huynh Anh Tuan",
-  title: "BackEnd Developer",
+  title: "Backend Developer",
   facts: {
     Residence:
       '<a href="#"><i class="fa fa-home fact-icon"></i>District 8, HCM</a>',
@@ -50,7 +50,7 @@ Backend Engineer of the best company providing social media analytics solutions 
 Responsibilities:
 
 * Handle and improve ELT services
-* Work with microservice using NestJS 
+* Working on microservice project using Nestjs, RabbitMQ, K8s, Solr...
 * Create and implement jobs worker to compute raw data to analytics data
 * Deep understanding of existing architecture data to solve problems or export adhoc data for customers
 
@@ -58,7 +58,7 @@ Achievements:
 
 * Good completion handle and improve ELT services with more than **80 million documents** per day
 * Create and improve services to compute data and scalable
-* Reduced compute data time for 1 week from 48 hours to 6 hours
+* Reduced compute data time for 1 week from **48 hours to 6 hours**
 * Applied Apache Airflow to manage sequentially running data processing services
 * Hosted tech talks. Topics: what is airflow and how it work?.
 * Applied Slack to monitoring services
