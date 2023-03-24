@@ -10,6 +10,7 @@ module.exports = {
       '<a href="https://github.com/anhtuan240599"><i class="fab fa-github fact-icon"></i>tuanhuynh</a>',
     Email:
       '<a href="mailto:anhtuan240599@gmail.com">:anhtuan240599@gmail.com</a>',
+    GPA: '3.5/4'
   },
   skills: [
     ["Javascript"],
@@ -96,10 +97,51 @@ Achievements:
 
 
     },
+    {
+      company: "2359 Media",
+      location: "HCM",
+      title: "Backend Engineer Intern",
+      period: "May 2021 - July 2021",
+      skills: [
+        "NodeJS",
+        "Javascript",
+        "PostgreSQL",
+        "Redis",
+        "Socket io"
+      ],
+      contents: `
+Backend Engineer Intern of Asia's leading digital consultancy and the preferred choice for cross platform engagement strategies.
+
+Responsibilities:
+
+* Learn git workflow, known and working with scrum agile
+* Create the website allows you to zip the files you want to share with others or for
+yourself
+* Deploy and apply CI/CD for website
+
+Achievements:
+
+* Works well with git workflow and agile scrum
+* Improve technical skill, coding better
+* Complete the tasks on time
+* Completion create and deploy website
+`,
+
+
+    },
   ],
-  softSkills: `
-  * Communication and teamwork
-  * Withstand pressure of work
-  * Adapt quickly to new knowledge
-  `
+
+  certificates: [
+    {
+      contents: []
+    },
+  ],
+
+  others: [
+    {
+      contents1: ['Communication and teamwork'],
+      contents2: ['Withstand pressure of work'],
+      contents3: ['Adapt quickly to new knowledge']
+    },
+  ]
 };

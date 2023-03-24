@@ -17,7 +17,7 @@
   ],
   "author": "Tuan Huynh <anhtuan240599@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/anhtuan240599/anhtuan240599.github-io/blob/main/README.md",
+  "homepage": "https://github.com/anhtuan240599/anhtuan240599.github-io#readme",
   "devDependencies": {
     "chokidar-cli": "^2.1.0",
     "fs-extra": "^9.0.1",
