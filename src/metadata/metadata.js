@@ -13,8 +13,8 @@ module.exports = {
     GPA: '3.5/4'
   },
   skills: [
-    ["Javascript"],
-    ["Typescript"],
+    ["NodeJS"],
+    ["NestJS"],
     ["RabbitMQ"],
     ["MongoDB"],
     ["MySQL"],
