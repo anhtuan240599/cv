@@ -50,7 +50,7 @@ Backend Engineer of the best company providing social media analytics solutions 
 Responsibilities:
 
 * Handle and improve ELT services
-* Working on microservice project using Nestjs, RabbitMQ, K8s, Solr...
+* Working on microservice project using Nestjs, RabbitMQ, K8s, Solr... and use lerna to manage monorepo
 * Create and implement jobs worker to compute raw data to analytics data
 * Deep understanding of existing architecture data to solve problems or export adhoc data for customers
 
