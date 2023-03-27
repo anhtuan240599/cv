@@ -49,6 +49,7 @@ Backend Engineer of the best company providing social media analytics solutions 
 
 Responsibilities:
 
+* Work on the E-commerce Intelligence project, collect and analyze sales of e-commerce sites
 * Handle and improve ELT services
 * Working on microservice project using Nestjs, RabbitMQ, K8s, Solr... and use lerna to manage monorepo
 * Create and implement jobs worker to compute raw data to analytics data
