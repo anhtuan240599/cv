@@ -29,7 +29,7 @@ module.exports = {
     "I am a backend developer, focusing on backend development. My ultimate goals are learn to design large-scale systems, optimize applications and lead successful teams. Love to refresh myself every single day, always hungry to keep learning!",
   positions: [
     {
-      company: "Younet Media",
+      company: "YouNet Media",
       location: "HCM",
       title: "Backend Engineer",
       period: "Aug 2021 - Present",
