@@ -42,6 +42,7 @@ module.exports = {
         "Docker",
         "Solr",
         "Mysql",
+        "Airflow",
         "Google Bigquery"
       ],
       contents: `
