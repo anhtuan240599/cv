@@ -50,16 +50,16 @@ Backend Engineer of the best company providing social media analytics solutions 
 
 Responsibilities:
 
-* Work on the E-commerce Intelligence project, collect and analyze sales of e-commerce sites
-* Handle and improve ELT services
-* Working on microservice project using Nestjs, RabbitMQ, K8s, Solr... and use lerna to manage monorepo
-* Create and implement jobs worker to compute raw data to analytics data
+* Work on the E-commerce Intelligence project, collect and analyze sales of e-commerce sites. Most data come from E-commerce site like Shopee, Lazada, Tiki
+* Working on microservice project using NestJS, RabbitMQ, K8s, Solr, MySQL... 
+* Handle and improve ELT services using NestJS with monorepo architecture and use Lerna to manage monorepo
+* Develop and implement jobs worker to compute raw data to analytics data
 * Deep understanding of existing architecture data to solve problems or export adhoc data for customers
 
 Achievements:
 
 * Good completion handle and improve ELT services with more than **80 million documents** per day
-* Create and improve services to compute data and scalable
+* Develop and improve services to compute data and scalable
 * Reduced compute data time for 1 week from **48 hours to 6 hours**
 * Applied Apache Airflow to manage sequentially running data processing services
 * Hosted tech talks. Topics: what is airflow and how it work?.
