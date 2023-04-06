@@ -2,15 +2,19 @@ module.exports = {
   name: "Huynh Anh Tuan",
   title: "Backend Developer",
   facts: {
+    'Date of birth':
+      '<i class="fa fa-birthday-cake fact-icon"></i>24/05/1999',
     Residence:
-      '<a href="#"><i class="fa fa-home fact-icon"></i>District 8, HCM</a>',
+      '<i class="fa fa-home fact-icon"></i>District 8, HCM',
+    Phone:
+      '<i class="fa fa-phone fact-icon"></i>0778651959',
     LinkedIn:
       '<a href="https://www.linkedin.com/in/tuan-huynh-584710210/"><i class="fab fa-linkedin fact-icon"></i>Tuan Huynh</a>',
     GitHub:
       '<a href="https://github.com/anhtuan240599"><i class="fab fa-github fact-icon"></i>tuanhuynh</a>',
     Email:
       '<a href="mailto:anhtuan240599@gmail.com">anhtuan240599@gmail.com</a>',
-    GPA: '3.5/4'
+    
   },
   skills: [
     ["NodeJS"],
@@ -48,15 +52,15 @@ module.exports = {
       contents: `
 Backend Engineer of the best company providing social media analytics solutions (Social Media Analytics) in Vietnam.
 
-Responsibilities:
+**Responsibilities:**
 
 * Work on the E-commerce Intelligence project, collect and analyze sales of e-commerce sites. Most data come from E-commerce site like Shopee, Lazada, Tiki
 * Working on microservice project using NestJS, RabbitMQ, K8s, Solr, MySQL... 
-* Handle and improve ELT services using NestJS with monorepo architecture and use Lerna to manage monorepo
+* Handle and improve ELT services using NestJS with monorepo architecture and use Lerna to manage it
 * Develop and implement jobs worker to compute raw data to analytics data
 * Deep understanding of existing architecture data to solve problems or export adhoc data for customers
 
-Achievements:
+**Achievements:**
 
 * Good completion handle and improve ELT services with more than **80 million documents** per day
 * Develop and improve services to compute data and scalable
@@ -84,14 +88,14 @@ Achievements:
       contents: `
 Backend Engineer Intern of Asia's leading digital consultancy and the preferred choice for cross platform engagement strategies.
 
-Responsibilities:
+**Responsibilities:**
 
 * Learn git workflow, known and working with scrum agile
 * Create the website allows you to zip the files you want to share with others or for
 yourself
 * Deploy and apply CI/CD for website
 
-Achievements:
+**Achievements:**
 
 * Works well with git workflow and agile scrum
 * Improve technical skill, coding better
