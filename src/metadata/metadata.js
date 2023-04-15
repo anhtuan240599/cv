@@ -54,10 +54,11 @@ Backend Engineer of the best company providing social media analytics solutions 
 
 **Responsibilities:**
 
-* Work on the E-commerce Intelligence project, collect and analyze sales of e-commerce sites. Most data come from E-commerce site like Shopee, Lazada, Tiki
+* Work on the E-commerce Intelligence project, develop services to collect and analyze sales of e-commerce sites. Most data come from E-commerce site like Shopee, Lazada, Tiki
 * Working on microservice project using NestJS, RabbitMQ, K8s, Solr, MySQL... 
 * Handle and improve ELT services using NestJS with monorepo architecture and use Lerna to manage it
-* Develop and implement jobs worker to compute raw data to analytics data
+* Develop and implement cron jobs worker to compute raw data to analytics data
+* Contribute solutions to improve data processing more and more efficiently
 * Deep understanding of existing architecture data to solve problems or export adhoc data for customers
 
 **Achievements:**
@@ -80,6 +81,7 @@ Backend Engineer of the best company providing social media analytics solutions 
       period: "May 2021 - July 2021",
       skills: [
         "NodeJS",
+        "Express",
         "Javascript",
         "PostgreSQL",
         "Redis",
