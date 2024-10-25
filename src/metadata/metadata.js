@@ -14,15 +14,16 @@ module.exports = {
       '<a href="https://github.com/anhtuan240599"><i class="fab fa-github fact-icon"></i>tuanhuynh</a>',
     Email:
       '<a href="mailto:anhtuan240599@gmail.com">anhtuan240599@gmail.com</a>',
-    
+
   },
   skills: [
+    ["AWS"],
     ["NodeJS"],
     ["NestJS"],
     ["RabbitMQ"],
     ["MongoDB"],
     ["MySQL"],
-    ["Solr"],
+    ["ES"],
     ["Redis"],
     ["Docker"],
     ["Kubernetes"],
@@ -33,10 +34,49 @@ module.exports = {
     "I am a backend developer, focusing on backend development. My ultimate goals are learn to design large-scale systems, optimize applications and lead successful teams. Love to refresh myself every single day, always hungry to keep learning!",
   positions: [
     {
+      company: "PNJ",
+      location: "HCM",
+      title: "Cloud Engineer",
+      period: "June 2023 - Present",
+      skills: [
+        "Typescript",
+        "NodeJS",
+        "AWS",
+        "EKS",
+        "Docker",
+        "MongoDB",
+        "Mysql",
+        "ES",
+        "Lambda",
+        "S3",
+        "RDS",
+        "EC2"
+      ],
+      contents: `
+Cloud Engineer of the the leading companies in Vietnam in the field of jewelry manufacturing and trading.
+
+**Responsibilities:**
+
+* Working on AWS (EC2, S3, RDS, Lambda, EKS, CloudFormation, CloudWatch, IAM, SQS, SNS, KMS, API Gateway, Route 53...)
+* Designed and deployed backend services in Node.js on AWS Lambda, EC2, and EKS to handle high-load applications with a focus on scalability and reliability.
+* Established CI/CD pipelines using AWS CodePipeline and GitLab CI/CD to automate deployments, reducing deployment times and increasing efficiency. 
+* Managed and optimized containerized applications using Docker and Kubernetes (EKS and Auto Scale) to support microservices architecture.
+* Developed and maintained REST API services in Node.js and API gateway for a high-traffic e-commerce application, scaling to support Thousand of users.
+
+**Achievements:**
+
+* Achieved a 99.8% uptime for web operations and sales transactions by optimizing AWS infrastructure with load balancing, auto-scaling, and failover strategies, ensuring high availability for core business functions.
+* Enhanced accounting payment workflows by integrating with multiple banking systems for batch payment processing, reducing manual work and accelerating transaction times for large-volume payments.
+* Reduced deployment time by implementing automated CI/CD pipelines with AWS CodePipeline CodeBuild, resulting in faster, more reliable production releases.
+`,
+
+
+    },
+    {
       company: "YouNet Media",
       location: "HCM",
       title: "Backend Engineer",
-      period: "Aug 2021 - Present",
+      period: "Aug 2021 - June 2023",
       skills: [
         "NestJS",
         "Typescript",

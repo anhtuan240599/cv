@@ -28,6 +28,7 @@
     "watch": "^1.0.2"
   },
   "dependencies": {
+    "@anhtuan240599/cv": "file:",
     "dayjs": "1.7.8",
     "speakingurl": "^14.0.1"
   }
