@@ -1,6 +1,6 @@
 module.exports = {
   name: "Huynh Anh Tuan",
-  title: "Backend Developer",
+  title: "Backend Developer / Cloud Engineer",
   facts: {
     'Date of birth':
       '<i class="fa fa-birthday-cake fact-icon"></i>24/05/1999',
