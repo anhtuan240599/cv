@@ -31,7 +31,7 @@ module.exports = {
     ["Airflow"],
   ],
   summary:
-    "I am a backend developer, focusing on backend development. My ultimate goals are learn to design large-scale systems, optimize applications and lead successful teams. Love to refresh myself every single day, always hungry to keep learning!",
+    "I'm a Cloud Engineer with 5 years of experience, specializing in designing and building scalable, reliable backend systems on the cloud. My focus is on architecting large-scale systems, optimizing performance and cost, and ensuring high availability. I'm working toward becoming a Solution Architect, with a strong interest in system design, cloud architecture, and building end-to-end solutions that align with business needs..",
   positions: [
     {
       company: "PNJ",
