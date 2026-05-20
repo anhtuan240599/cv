@@ -1,9 +1,7 @@
 module.exports = {
   name: "Huynh Anh Tuan",
-  title: "Backend Developer / Cloud Engineer",
+  title: "Senior Backend / Cloud Engineer",
   facts: {
-    'Date of birth':
-      '<i class="fa fa-birthday-cake fact-icon"></i>24/05/1999',
     Residence:
       '<i class="fa fa-home fact-icon"></i>District 8, HCM',
     Phone:
@@ -18,25 +16,27 @@ module.exports = {
   },
   skills: [
     ["AWS"],
-    ["NodeJS"],
-    ["NestJS"],
-    ["RabbitMQ"],
-    ["MongoDB"],
-    ["MySQL"],
-    ["ES"],
-    ["Redis"],
+    ["Kubernetes (EKS)"],
     ["Docker"],
-    ["Kubernetes"],
+    ["Terraform"],
+    ["CloudFormation"],
     ["CI/CD"],
-    ["Airflow"],
+    ["GitLab / Bitbucket"],
+    ["Linux / Bash"],
+    ["Helm"],
+    ["CloudWatch / Grafana"],
+    ["NodeJS"],
+    ["MongoDB / MySQL"],
+    ["Redis"],
+    ["RabbitMQ"],
   ],
   summary:
-    "I'm a Cloud Engineer with 5 years of experience, specializing in designing and building scalable, reliable backend systems on the cloud. My focus is on architecting large-scale systems, optimizing performance and cost, and ensuring high availability. I'm working toward becoming a Solution Architect, with a strong interest in system design, cloud architecture, and building end-to-end solutions that align with business needs..",
+    "I'm a Senior Cloud Engineer with 5 years of experience, specializing in designing and building scalable, reliable backend systems on the cloud. My focus is on architecting large-scale systems, optimizing performance and cost, and ensuring high availability. I'm working toward becoming a Solution Architect, with a strong interest in system design, cloud architecture, and building end-to-end solutions that align with business needs..",
   positions: [
     {
       company: "PNJ",
       location: "HCM",
-      title: "Cloud Engineer",
+      title: "Senior Cloud Engineer",
       period: "June 2023 - Present",
       skills: [
         "Typescript",
@@ -53,21 +53,26 @@ module.exports = {
         "EC2"
       ],
       contents: `
-Cloud Engineer of the the leading companies in Vietnam in the field of jewelry manufacturing and trading.
+Senior Cloud Engineer at PNJ — Vietnam's top jewelry manufacturer & retailer, operating cloud platform for nationwide retail and e-commerce.
 
 **Responsibilities:**
 
-* Working on AWS (EC2, S3, RDS, Lambda, EKS, CloudFormation, CloudWatch, IAM, SQS, SNS, KMS, API Gateway, Route 53...)
-* Designed and deployed backend services in Node.js on AWS Lambda, EC2, and EKS to handle high-load applications with a focus on scalability and reliability.
-* Established CI/CD pipelines using AWS CodePipeline and GitLab CI/CD to automate deployments, reducing deployment times and increasing efficiency. 
-* Managed and optimized containerized applications using Docker and Kubernetes (EKS and Auto Scale) to support microservices architecture.
-* Developed and maintained REST API services in Node.js and API gateway for a high-traffic e-commerce application, scaling to support Thousand of users.
+* Own end-to-end DevOps lifecycle on AWS (VPC, EC2, S3, RDS, Lambda, EKS, CloudFormation, CloudWatch, IAM, SQS, SNS, KMS, API Gateway, Route 53...) for production e-commerce and retail systems.
+* Design, provision, and operate cloud infrastructure as code with **CloudFormation CDK/Terraform**, ensuring reproducible, version-controlled environments across staging, and production.
+* Build and maintain **CI/CD pipelines** on BitBucket AWS CodePipeline/CodeBuild
+* Operate and tune **Kubernetes (EKS)** clusters — HPA, cluster autoscaler, ingress, service mesh — to support microservices at scale.
+* Lead **cost optimization** initiatives (rightsizing, Spot/Savings Plans, lifecycle policies) and capacity planning for peak campaigns.
+* Partner with **SecOps** on cloud security: IAM least-privilege, WAF, DDoS protection, and audit compliance.
+* Mentor backend developers on cloud-native patterns and self-service deployment workflows.
 
 **Achievements:**
 
-* Achieved a 99.8% uptime for web operations and sales transactions by optimizing AWS infrastructure with load balancing, auto-scaling, and failover strategies, ensuring high availability for core business functions.
-* Enhanced accounting payment workflows by integrating with multiple banking systems for batch payment processing, reducing manual work and accelerating transaction times for large-volume payments.
-* Reduced deployment time by implementing automated CI/CD pipelines with AWS CodePipeline CodeBuild, resulting in faster, more reliable production releases.
+* Sustained **99.95% uptime** for AWS infrastructure serving **400+ retail stores** through peak campaigns (Tet, God of Wealth Day) with multi-AZ EKS, auto-scaling, and active-passive failover.
+* Cut monthly AWS spend by **~20%** via EC2/RDS rightsizing and instance type, Spot & Savings Plans, and S3 lifecycle policies — no impact on SLOs.
+* Standardized provisioning with **CloudFormation/Terraform (IaC)**, dropping new-environment spin-up from days to under an hour.
+* Built an **AWS-equivalent local dev environment** with Floci & Docker Compose cutting dev cloud cost and enabling offline development with faster feedback loops.
+* Collaborated closely with **SecOps** to deliver secure services and harden the platform against 95% **DDoS attacks** using Cloudflare, WAF.
+* Bootstrapped **multiple AWS accounts from scratch** for new projects — from network foundation (VPC, subnets, NAT, Route 53, VPN, Transit Gateway) to core infrastructure (EKS, RDS, IAM, CI/CD, monitoring) — delivering production-ready environments with consistent security baselines.
 `,
 
 
