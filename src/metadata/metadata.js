@@ -26,11 +26,10 @@ module.exports = {
     ["MongoDB"],
     ["MySQL"],
     ["ES"],
-    ["Redis"],
-    ["RabbitMQ"],
+    ["MessageQ"],
   ],
   summary:
-    "I'm a Senior Cloud Engineer with 5 years of experience, specializing in designing and building scalable, reliable backend systems on the cloud. My focus is on architecting large-scale systems, optimizing performance and cost, and ensuring high availability. I'm working toward becoming a Solution Architect, with a strong interest in system design, cloud architecture, and building end-to-end solutions that align with business needs..",
+    "I'm a Cloud Engineer with 5 years of experience, specializing in designing and building scalable, reliable backend systems on the cloud. My focus is on architecting large-scale systems, optimizing performance and cost, and ensuring high availability. I'm working toward becoming a Solution Architect, with a strong interest in system design, cloud architecture, and building end-to-end solutions that align with business needs..",
   positions: [
     {
       company: "PNJ",
