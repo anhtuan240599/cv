@@ -37,8 +37,8 @@ module.exports = {
       title: "Senior Cloud Engineer",
       period: "June 2023 - Present",
       skills: [
-        "Typescript",
-        "NodeJS",
+        "Nodejs",
+        "Python",
         "AWS",
         "VPC",
         "EKS",
